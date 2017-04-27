@@ -1,1 +1,2 @@
-# Flashcard_Generator
+//open card
+//info
